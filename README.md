@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **  C++,  Python,  html,  css, C **
 
-- 📫 How to reach me ** mynametithi@gmail.com **
 - My gmail id: mynametithi@gmail.com
   
 ---
